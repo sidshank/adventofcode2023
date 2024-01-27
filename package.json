@@ -8,5 +8,8 @@
   },
   "author": "sidshank@github.com",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "z": "^1.0.9"
+  }
 }
